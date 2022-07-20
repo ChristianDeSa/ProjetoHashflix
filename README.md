@@ -1,3 +1,5 @@
 # ProjetoHashflix
 
-Por enquanto vou apenas deixar o link do site que fiz aqui: https://projetohashflix.herokuapp.com/
+Crie uma conta no site para poder ver suas funcionalidades, ainda é bem básico mas já é alguma coisa.
+
+Por enquanto vou apenas deixar o link aqui: https://projetohashflix.herokuapp.com/
